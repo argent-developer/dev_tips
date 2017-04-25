@@ -1,3 +1,7 @@
+***
+
+### find files including certain words in some directories
+
 ```
 grep -rnw '/path/to/somewhere/' -e "pattern"
 ```
@@ -20,3 +24,6 @@ Along with these, `--exclude`, `--include`, `--exclude-dir` or `--include-dir` f
 `grep --exclude-dir={dir1,dir2,*.dst} -rnw '/path/to/somewhere/' -e "pattern"`
 
 [source](http://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-on-linux)
+
+***
+
