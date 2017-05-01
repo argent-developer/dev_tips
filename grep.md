@@ -1,6 +1,10 @@
+# Contents
+
+1. Find files including certain words in some directories. ([jump](#con_1))
+
 ***
 
-### find files including certain words in some directories
+### <a name="con_1"></a>1. Find files including certain words in some directories
 
 ```
 grep -rnw '/path/to/somewhere/' -e "pattern"
