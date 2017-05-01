@@ -1,6 +1,6 @@
 # Contents
 
-1. Find files including certain words in some directories. ([jump](#con_1))
+1. Find all files including certain words in some directories. ([jump](#con_1))
 
 ***
 
