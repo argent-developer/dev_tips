@@ -14,7 +14,7 @@ grep -rnw '/path/to/somewhere/' -e "pattern"
 - `n` is line number, and
 - `w` stands for match the whole word.
 - `l` (lower-case L) can be added to just give the file name of matching files.
-
+  
 Along with these, `--exclude`, `--include`, `--exclude-dir` or `--include-dir` flags could be used for efficient searching:
 
 - This will only search through those files which have .c or .h extensions:
